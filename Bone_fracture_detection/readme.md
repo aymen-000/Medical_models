@@ -35,15 +35,15 @@ The dataset used for this project is sourced from [Roboflow](https://universe.ro
   
 ### for training dataset 
 
-!['result](/imgs/trainInfo.png)
+!['result](Bone_fracture_detection/imgs/trainInfo.png)
 
 ### for validation dataset 
 
-!['result](/imgs/validInfo.png)
+!['result](Bone_fracture_detection/imgs/validInfo.png)
 
 ### Results on testDataset
 
-!['result](/imgs/save.png)
+!['result](Bone_fracture_detection/imgs/save.png)
 ## How to Clone  the Project
 
 To clone and set up the project locally, follow these steps:
